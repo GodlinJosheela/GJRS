@@ -137,3 +137,5 @@ footer h2{margin-bottom:.4rem}footer p{color:var(--muted)}footer .cta{justify-co
 .toolbox>div{border:1px solid var(--line);border-radius:16px;padding:16px 18px;background:rgba(16,31,58,.55)}
 .toolbox h4{margin:0 0 6px;color:var(--mint);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase}
 .toolbox p{margin:0;color:var(--text);font-size:.92rem}
+
+footer .built{margin:1.6rem auto .6rem;max-width:56ch;font-size:.9rem;color:var(--mint)}
